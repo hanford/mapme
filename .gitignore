@@ -1,0 +1,4 @@
+node_modules/
+LocationHistory.json
+location.json
+.DS_Store
